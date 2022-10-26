@@ -8,46 +8,62 @@ function Home() {
         <div className='home'>
             <Banner/>
             <div className='home__section'>
+
             <Card
-                src="https://static.dw.com/image/55000481_303.jpg"
+                src1="https://static.dw.com/image/55000481_303.jpg"
+                src2="https://static.dw.com/image/55000481_303.jpg"
+                src3="https://static.dw.com/image/55000481_303.jpg"
                 title="Unique Stays"
                 description="Explore the world."
             />
             <Card
-                src="https://static.dw.com/image/55000481_303.jpg"
-                title="Unique stays"
-                description="Explore the world."
-            />
-            <Card
-                src="https://static.dw.com/image/55000481_303.jpg"
-                title="Unique stays"
-                description="Explore the world."
-            />
-            <Card
-                src="https://static.dw.com/image/55000481_303.jpg"
-                title="Unique stays"
-                description="Explore the world."
-            />
-            </div>
-            <div className='home__section'>
-            <Card
-                src="https://static.dw.com/image/55000481_303.jpg"
+                src1="https://static.dw.com/image/55000481_303.jpg"
+                src2="https://static.dw.com/image/55000481_303.jpg"
+                src3="https://static.dw.com/image/55000481_303.jpg"
                 title="Unique Stays"
                 description="Explore the world."
             />
             <Card
-                src="https://static.dw.com/image/55000481_303.jpg"
-                title="Unique stays"
+                src1="https://static.dw.com/image/55000481_303.jpg"
+                src2="https://static.dw.com/image/55000481_303.jpg"
+                src3="https://static.dw.com/image/55000481_303.jpg"
+                title="Unique Stays"
+                description="Explore the world."
+            />
+            
+            <Card
+                src1="https://static.dw.com/image/55000481_303.jpg"
+                src2="https://static.dw.com/image/55000481_303.jpg"
+                src3="https://static.dw.com/image/55000481_303.jpg"
+                title="Unique Stays"
                 description="Explore the world."
             />
             <Card
-                src="https://static.dw.com/image/55000481_303.jpg"
-                title="Unique stays"
+                src1="https://static.dw.com/image/55000481_303.jpg"
+                src2="https://static.dw.com/image/55000481_303.jpg"
+                src3="https://static.dw.com/image/55000481_303.jpg"
+                title="Unique Stays"
                 description="Explore the world."
             />
             <Card
-                src="https://static.dw.com/image/55000481_303.jpg"
-                title="Unique stays"
+                src1="https://static.dw.com/image/55000481_303.jpg"
+                src2="https://static.dw.com/image/55000481_303.jpg"
+                src3="https://static.dw.com/image/55000481_303.jpg"
+                title="Unique Stays"
+                description="Explore the world."
+            />
+            <Card
+                src1="https://static.dw.com/image/55000481_303.jpg"
+                src2="https://static.dw.com/image/55000481_303.jpg"
+                src3="https://static.dw.com/image/55000481_303.jpg"
+                title="Unique Stays"
+                description="Explore the world."
+            />
+            <Card
+                src1="https://static.dw.com/image/55000481_303.jpg"
+                src2="https://static.dw.com/image/55000481_303.jpg"
+                src3="https://static.dw.com/image/55000481_303.jpg"
+                title="Unique Stays"
                 description="Explore the world."
             />
             </div>

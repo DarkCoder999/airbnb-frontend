@@ -2,9 +2,15 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     padding: 30px;
+    max-width: 1400px;
 }
 
 @media (max-width: 1175px) {
+    .home__section {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media (max-width: 840px) {
     .home__section {
         grid-template-columns: repeat(2, 1fr);
     }

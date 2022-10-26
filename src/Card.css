@@ -1,5 +1,4 @@
-.card {
-    margin: 10px;
+.cardcontainer {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0px 6px 18px -9px rgba(0, 0, 0, 0.75);
@@ -7,11 +6,11 @@
     cursor: pointer;
 }
   
-.card:hover {
+.cardcontainer:hover {
     transform: scale(1.07);
 }
   
-.card > img {
+.cardcontainer > img {
     object-fit: fill;
     min-width: 300px;
     min-height: 200px;
@@ -36,4 +35,23 @@
       font-weight: 300;
       margin-top: 8px;
       margin-bottom: 8px;
+}
+.cimage{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+@media (max-width: 1175px) {
+    .cardcontainer {
+        width: 350;
+    }
+}
+@media (max-width: 840px) {
+    .cardcontainer{
+        width: 300;
+    }
+}
+@media (max-width: 575px) {
+    .cardcontainer{
+        width: 250;
+    }
 }
