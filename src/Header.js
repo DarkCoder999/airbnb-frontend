@@ -17,10 +17,10 @@ function Header(){
             </Link>
 
                 <div className="header__center">
-                    <input type='text' />
-                    <SearchIcon/>
+                    <input type='text' name='search-box' />
+                    <SearchIcon />
                 </div>
-                <div className='header__right'>
+            <div className='header__right'>
                 <p>Become a host</p>
                 <LanguageIcon />
                 <ExpandMoreIcon />

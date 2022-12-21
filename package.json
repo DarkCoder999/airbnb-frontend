@@ -11,15 +11,19 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.2",
     "date-fns": "^2.29.3",
+    "date-picker": "^0.5.0",
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-bootstrap-carousel": "^4.1.1",
     "react-date-range": "^1.4.0",
+    "react-datepicker": "^4.8.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.4.2",
     "react-scripts": "5.0.1",
+    "react-tailwindcss-datepicker": "^1.2.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -47,5 +51,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik11135/Airbnbclonee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik11135/Airbnbclonee/issues"
+  },
+  "description": ""
 }
